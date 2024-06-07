@@ -1,4 +1,4 @@
-<h2 align=center><strong>ALX SE DevSphere 🗻</strong></h2>
+<h2 align=center><strong>ALX SE Nigeria</strong></h2>
 <p align=center>Hi there. Thank you for checking our GitHub organization's profile README.</p>
 
 <p align=center>This README will be updated later, but for now, check out the GitHub profile of our members:</p>
