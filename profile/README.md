@@ -1,10 +1,11 @@
 <h2 align=center><strong>ALX SE Nigeria</strong></h2>
-<p align=center>Hi there. Thank you for checking our GitHub organization's profile README.</p>
+<!-- 
+<p align=center>Hi there. Thank you for checking our GitHub organization's profile README.</p> -->
 
-<p align=center>This README will be updated later, but for now, check out the GitHub profile of our members:</p>
+<!-- <p align=center>This README will be updated later, but for now, check out the GitHub profile of our members:</p> -->
 
-1. <strong><a href="https://github.com/dohoudaniel">Dohou Daniel Favour</a></strong>
-2. <strong><a href="https://github.com/mcsavvy">Dave McSavvy</a></strong>
+<!-- 1. <strong><a href="https://github.com/dohoudaniel">Dohou Daniel Favour</a></strong> -->
+<!-- 2. <strong><a href="https://github.com/mcsavvy">Dave McSavvy</a></strong> -->
 <!-- <strong><a href="https://github.com"></a></strong> -->
 
 <!--
